@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-github-pages/static/css/main.37088996.css",
-    "main.js": "/react-github-pages/static/js/main.c15987ff.js",
-    "static/js/787.3e10ae05.chunk.js": "/react-github-pages/static/js/787.3e10ae05.chunk.js",
-    "static/media/logo.svg": "/react-github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-github-pages/index.html",
-    "main.37088996.css.map": "/react-github-pages/static/css/main.37088996.css.map",
-    "main.c15987ff.js.map": "/react-github-pages/static/js/main.c15987ff.js.map",
-    "787.3e10ae05.chunk.js.map": "/react-github-pages/static/js/787.3e10ae05.chunk.js.map"
+    "main.css": "/react/static/css/main.37088996.css",
+    "main.js": "/react/static/js/main.9843584f.js",
+    "static/js/787.3e10ae05.chunk.js": "/react/static/js/787.3e10ae05.chunk.js",
+    "static/media/logo.svg": "/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react/index.html",
+    "main.37088996.css.map": "/react/static/css/main.37088996.css.map",
+    "main.9843584f.js.map": "/react/static/js/main.9843584f.js.map",
+    "787.3e10ae05.chunk.js.map": "/react/static/js/787.3e10ae05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37088996.css",
-    "static/js/main.c15987ff.js"
+    "static/js/main.9843584f.js"
   ]
 }
