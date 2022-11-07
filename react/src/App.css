@@ -1,0 +1,22 @@
+.inner{
+  width: 30%;
+  margin: 0 auto;
+}
+.inner-hom{
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+}
+.cont{
+  align-items: center;
+  width: 500px;
+  height: 50px;
+  border: 1px solid #ddd;
+}
+.cont div{
+  width: 100%;
+  margin: 10px 0 0 20px;
+}
+.cont div input[type="id"]{
+  width: 80px;
+}
